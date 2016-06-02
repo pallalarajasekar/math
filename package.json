@@ -1,0 +1,19 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallalarajasekar/math.git"
+  },
+  "author": "pallala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallalarajasekar/math/issues"
+  },
+  "homepage": "https://github.com/pallalarajasekar/math#readme"
+}
